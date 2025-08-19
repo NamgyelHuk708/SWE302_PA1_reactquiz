@@ -226,4 +226,4 @@ The following test cases can be used to validate the application functionality:
 - **Steps**: Answer specific pattern of questions
 - **Expected**: Final score matches expected calculation (correct answers / total questions)
 
-### thank you
+### thank
